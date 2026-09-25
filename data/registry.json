@@ -1,0 +1,29 @@
+{
+  "snapshot_date": "2026-09-25",
+  "source": "GitHub Search / REST API via gh",
+  "entries": [
+    {"repo": "1052666/WeChat-MCP-Server", "service": "微信 WeChat", "category": "im", "credential": "login", "snapshot_stars": 35},
+    {"repo": "LinnnnYue/weixin-mcp-server", "service": "微信", "category": "im", "credential": "login", "snapshot_stars": 1},
+    {"repo": "emilywudreamer/wecom-mcp-server", "service": "企业微信 WeCom", "category": "im", "credential": "token", "snapshot_stars": 0},
+    {"repo": "cso1z/Feishu-MCP", "service": "飞书 Feishu/Lark", "category": "social", "credential": "token", "snapshot_stars": 740},
+    {"repo": "lancelin111/douyin-mcp-server", "service": "抖音 Douyin", "category": "social", "credential": "none", "snapshot_stars": 35},
+    {"repo": "Evil0ctal/Douyin_TikTok_Download_API", "service": "抖音/TikTok", "category": "social", "credential": "selfhost", "snapshot_stars": 20321},
+    {"repo": "aicu-icu/xhs-mcp-server", "service": "小红书 Xiaohongshu", "category": "social", "credential": "none", "snapshot_stars": 182},
+    {"repo": "shawnq-msft/mcp-dianping", "service": "大众点评 Dianping", "category": "social", "credential": "none", "snapshot_stars": 2},
+    {"repo": "blacsheep/LLM-Amap-mcp", "service": "高德 Amap", "category": "lbs", "credential": "key", "snapshot_stars": 6},
+    {"repo": "bamboo-moon/zhisaotong-Agent", "service": "高德 Amap（应用）", "category": "lbs", "credential": "key", "snapshot_stars": 141},
+    {"repo": "ArchChuan/yinxiang-mcp", "service": "印象笔记中国 Yinxiang", "category": "life", "credential": "login", "snapshot_stars": 2},
+    {"repo": "xinyuxinyuxintaihaohao/garmin-cn-mcp", "service": "佳明中国 Garmin CN", "category": "life", "credential": "login", "snapshot_stars": 4},
+    {"repo": "M-China/mcd-mcp-server", "service": "麦当劳中国 McDonald's CN", "category": "life", "credential": "none", "snapshot_stars": 139},
+    {"repo": "alipay/global-alipayplus-mcp", "service": "支付宝 Alipay（官方）", "category": "pay", "credential": "none", "snapshot_stars": 8},
+    {"repo": "aahl/mcp-aktools", "service": "股票/加密货币", "category": "finance", "credential": "none", "snapshot_stars": 391},
+    {"repo": "huweihua123/stock-mcp", "service": "A股/美股/加密货币", "category": "finance", "credential": "none", "snapshot_stars": 177},
+    {"repo": "dsphper/lanhu-mcp", "service": "蓝湖需求分析", "category": "devtool", "credential": "token", "snapshot_stars": 2421},
+    {"repo": "cfrs2005/claude-init", "service": "中文开发套件", "category": "devtool", "credential": "none", "snapshot_stars": 1362},
+    {"repo": "MAA-AI/MaaMCP", "service": "Android/Win 自动化", "category": "devtool", "credential": "none", "snapshot_stars": 385},
+    {"repo": "skrstop/MCPHub-Desktop", "service": "MCP 管理桌面端", "category": "devtool", "credential": "none", "snapshot_stars": 438},
+    {"repo": "mouseart2025/china-context-mcp", "service": "古诗文/节假日/历史上的今天", "category": "context", "credential": "none", "snapshot_stars": 0},
+    {"repo": "PrefectHQ/fastmcp", "service": "Python MCP 框架", "category": "framework", "credential": "none", "snapshot_stars": 27894},
+    {"repo": "modelcontextprotocol/inspector", "service": "MCP 可视化调试", "category": "framework", "credential": "none", "snapshot_stars": 10950}
+  ]
+}
