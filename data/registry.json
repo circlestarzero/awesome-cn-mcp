@@ -22,6 +22,7 @@
     {"repo": "cfrs2005/claude-init", "service": "中文开发套件", "category": "devtool", "credential": "none", "snapshot_stars": 1362},
     {"repo": "MAA-AI/MaaMCP", "service": "Android/Win 自动化", "category": "devtool", "credential": "none", "snapshot_stars": 385},
     {"repo": "skrstop/MCPHub-Desktop", "service": "MCP 管理桌面端", "category": "devtool", "credential": "none", "snapshot_stars": 438},
+    {"repo": "NoEdgeAI/doc2x-mcp", "service": "Doc2X 文档解析", "category": "devtool", "credential": "key", "snapshot_stars": 3},
     {"repo": "mouseart2025/china-context-mcp", "service": "古诗文/节假日/历史上的今天", "category": "context", "credential": "none", "snapshot_stars": 0},
     {"repo": "PrefectHQ/fastmcp", "service": "Python MCP 框架", "category": "framework", "credential": "none", "snapshot_stars": 27894},
     {"repo": "modelcontextprotocol/inspector", "service": "MCP 可视化调试", "category": "framework", "credential": "none", "snapshot_stars": 10950}
