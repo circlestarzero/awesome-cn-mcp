@@ -78,6 +78,7 @@
 | 中文开发套件 | `cfrs2005/claude-init` | 1362 | — | Claude Code 中文化 |
 | Android/Win 自动化 | `MAA-AI/MaaMCP` | 385 | — | 基于 MaaFramework |
 | MCP 管理桌面端 | `skrstop/MCPHub-Desktop` | 438 | — | 本地统一管理 |
+| Doc2X 文档解析 | [NoEdgeAI/doc2x-mcp](https://github.com/NoEdgeAI/doc2x-mcp) | 3 | API Key | NoEdgeAI 官方 MIT stdio MCP；PDF/图片解析、导出及版面 JSON；云端 API 按用量计费 |
 
 ### 四、中国语境 / 文化数据源（本目录重点缺口层）
 
